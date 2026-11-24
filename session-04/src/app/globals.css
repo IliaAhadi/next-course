@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* session 4 */
+@theme {
+  --color-primary: #22d3ee;
+  --color-secondary: #999;
+  --color-borderColor: #ffff1a;
+}
+/* end session 4 */

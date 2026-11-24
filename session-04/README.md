@@ -1,0 +1,4 @@
+- added components folder and Header.tsx
+- added types/types.ts
+- added custom colors to tailwind
+- npm i framer-motion
